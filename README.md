@@ -2,6 +2,9 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
+# Demo Link
+https://youtu.be/5ijHi5B8WLs
+
 ## How to run this project on your system
 1. clone the repository
 2. open the project in Visual Studio Code and run below command in terminal to install all the packages from package.json:
