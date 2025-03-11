@@ -2,9 +2,14 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.1.
 
-## Development server
-
-To start a local development server, run:
+## How to run Locally on Development server
+1. clone the repository
+2. open the project in vscode and run command:
+```bash
+npm install 
+```
+to install all the packages from package.json.
+3. To start a local development server, run:
 
 ```bash
 ng serve
