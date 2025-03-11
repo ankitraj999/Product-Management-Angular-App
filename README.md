@@ -4,7 +4,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## How to run Locally on Development server
 1. clone the repository
-2. open the project in Visual Studio Code and run command to install all the packages from package.json:
+2. open the project in Visual Studio Code and run below command in terminal to install all the packages from package.json:
 ```bash
 npm install 
 ```
